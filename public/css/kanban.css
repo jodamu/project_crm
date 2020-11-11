@@ -1,0 +1,32 @@
+.panel{
+  border: 1px solid #eee;
+  width: 300px !important;
+  min-height: 50vh;
+
+  list-style-type: none;
+  margin: 5;
+  padding: 5px 5 5 5;
+  float: left;
+  margin-right: 15px; 
+}
+ 
+.ui-state-disabled {
+  margin: 0 5px 5px 5px;
+  padding: 5px;
+  color: black;
+  width: 280px;
+  background-color: greenyellow;
+  text-decoration-color: black;
+  font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.entro > ul  {
+  margin: 0 5px 5px 5px;
+  padding: 5px;
+  width: 100%;
+}
+ .entro > ul > li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em;  }
